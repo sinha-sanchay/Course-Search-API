@@ -242,3 +242,36 @@ curl -X GET "http://localhost:8080/api/search?category=Art&minAge=13&maxAge=19&s
 - **CourseSearchService**: Service implementing the search functionality
 - **CourseSearchController**: REST controller exposing the search API
 
+## Interview Resources
+
+This repository includes comprehensive interview materials for technical assessments:
+
+### 📋 Interview Question Sets
+- **[INTERVIEW_QUESTIONS.md](INTERVIEW_QUESTIONS.md)** - Complete question bank with 40+ questions across all difficulty levels
+- **[QUICK_INTERVIEW_GUIDE.md](QUICK_INTERVIEW_GUIDE.md)** - Concise interview guide for 15/30/60-minute sessions
+- **[CODING_EXERCISES.md](CODING_EXERCISES.md)** - Hands-on coding challenges and system design exercises
+
+### 🎯 Question Categories
+- **Junior Level (Q1-Q8):** Spring Boot basics, Java fundamentals, basic Elasticsearch
+- **Mid-Level (Q9-Q16):** API design, error handling, performance considerations
+- **Senior Level (Q17-Q24):** Architecture, scalability, production readiness
+- **System Design (Q25-Q28):** Large-scale systems, data pipelines, real-time processing
+- **Practical Coding (Q29-Q35):** Implementation challenges, code review scenarios
+
+### 🛠 Technical Areas Covered
+- Spring Boot & Spring Data
+- Elasticsearch & Search Optimization
+- REST API Design & Best Practices
+- System Architecture & Scalability
+- Performance Optimization
+- Security & Production Readiness
+- Testing Strategies
+- DevOps & Monitoring
+
+### 💡 Usage Guidelines
+1. **For Interviewers:** Use the quick guide to select appropriate questions based on role level and time constraints
+2. **For Candidates:** Review the questions to understand expected technical depth and prepare accordingly
+3. **For Teams:** Use as a reference for technical standards and knowledge expectations
+
+The interview materials are based on real-world scenarios and cover both theoretical knowledge and practical implementation skills relevant to modern Java/Spring Boot development.
+
